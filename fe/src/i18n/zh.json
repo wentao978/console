@@ -1,0 +1,27 @@
+{
+	"login": {
+		"systemLogin": "系统登录",
+		"login": "登录",
+		"logout": "退出登录",
+		"email": "邮箱",
+		"password": "密码",
+		"correctUsername": "请输入正确的用户名",
+		"adminTips": "admin账号为:admin@gionee.com 密码随便填",
+		"editorTips": "editor账号:editor@gionee.com 密码随便填",
+		"correctEmail": "请输入正确的合法邮箱",
+		"minPassword": "密码不能小于{num}位"
+	},
+	"head": {
+		"title": "云服务管理平台"
+	},
+	"route": {
+		"home": "首页",
+		"chart": "图表",
+		"mchart": "混合图表",
+		"comprehensive": "综合实例",
+		"table": "表格",
+		"mtable": "综合表格",
+		"form": "表单"
+	},
+	"a": "你好 世界"
+}

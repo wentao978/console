@@ -1,0 +1,27 @@
+{
+	"login": {
+		"systemLogin": "System Login",
+		"login": "login",
+		"logout": "logout",
+		"email": "email",
+		"password": "password",
+		"correctUsername": "Please enter the correct username",
+		"adminTips": "admin account: admin@gionee.com password fill",
+		"editorTips": "editor account: editor@gionee.com password fill",
+		"correctEmail": "Please enter the correct legal mailbox",
+		"minPassword": "The password cannot be less than {num} digits"
+	},
+	"head": {
+		"title": "Cloud platform"
+	},
+	"route": {
+		"home": "Home",
+		"chart": "chart",
+		"mchart": "mixed chart",
+		"comprehensive": "comprehensive",
+		"table": "table",
+		"mtable": "mix table",
+		"form": "form"
+	},
+	"a": "Hello World!"
+}
